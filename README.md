@@ -1,4 +1,4 @@
 # game-ular
 
-Game ular dengan bahasa pemrograman javascript__
+Game ular dengan bahasa pemrograman javascript\
 Demo : https://nkolis.github.io/game-ular
